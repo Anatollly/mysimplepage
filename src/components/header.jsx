@@ -35,7 +35,6 @@ export const Header = (props) => {
         <ParticlesBg type="custom" config={config} bg={{zIndex: 0, position:"absolute", top:0}} />
         <div className='overlay'>
           <div className='container'>
-
             <div className='row'>
               <div className='col-md-8 col-md-offset-2 intro-text'>
                 <h1>
@@ -47,7 +46,7 @@ export const Header = (props) => {
                   href='#features'
                   className='btn btn-custom btn-lg page-scroll'
                 >
-                  Learn More
+                  Прочитать историю
                 </a>{' '}
               </div>
             </div>

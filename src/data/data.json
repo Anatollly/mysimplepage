@@ -1,8 +1,8 @@
 {
     "Header": {
 
-        "title": "О нас",
-        "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+        "title": "#Пиво Плюс",
+        "paragraph": "Питерские магазины вкусного пива, сидров, медовухи и вкусных закусок"
 
     },
     "About": {
@@ -113,24 +113,24 @@
         "youtube": "youtube.com"
     },
     "Features": [{
-            "icon": "fa fa-comments-o",
-            "title": "Lorem ipsum",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+            "icon": "fa fa-tap",
+            "title": "40 кранов",
+            "text": "с разливными напитками - отечественным, импортным, крафтовым пивом, а также сидром и безалкогольными напитками, такие как лимонад"
         },
         {
-            "icon": "fa fa-bullhorn",
-            "title": "Lorem ipsum",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+            "icon": "fa fa-bottle",
+            "title": "Около 400 видов",
+            "text": "в банках и бутылках – отечественное, импортное, крафтовое пиво, сидры, мёд, а также безалкогольные напитки (пиво, сидры, лимонады)"
         },
         {
-            "icon": "fa fa-group",
-            "title": "Lorem ipsum",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+            "icon": "fa fa-fish",
+            "title": "Около 100 видов",
+            "text": "– рыба вяленая/сушёная/копчёная, рыбные снеки, чипсы, орехи, сухарики"
         },
         {
-            "icon": "fa fa-magic",
-            "title": "Lorem ipsum",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+            "icon": "fa fa-beer",
+            "title": "Сувенирная",
+            "text": "– журнал о пиве, подарочные боксы для бутылок, подарочные сертификаты, интересная коллекция"
         }
     ]
 }
