@@ -37,10 +37,7 @@ export const Header = (props) => {
           <div className='container'>
             <div className='row'>
               <div className='col-md-8 col-md-offset-2 intro-text'>
-                <h1>
-                  {props.data ? props.data.title : 'Loading'}
-                  <span></span>
-                </h1>
+                <img src="img/logo.png" className="img-responsive logo" alt="Logo" />
                 <p>{props.data ? props.data.paragraph : 'Loading'}</p>
                 <a
                   href='#features'

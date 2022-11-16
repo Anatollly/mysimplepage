@@ -159,7 +159,7 @@ hr {
 	background-image: linear-gradient(to right, #5ca9fb 0%, #6372ff 100%);
 	padding: 14px 34px;
 	letter-spacing: 1px;
-	margin: 0;
+	margin: 50px 0 0 0;
 	font-size: 15px;
 	font-weight: 500;
 	border-radius: 25px;
@@ -187,7 +187,7 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 	position: relative;
 	width: 100%;
 	padding: 0;
-	background-color: #f28e1c;
+	background-color: #f6c101;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	background-size: cover;
@@ -196,6 +196,12 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 .intro .overlay {
 	background: rgba(0,0,0,0.2);
 }
+
+.intro .logo {
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
 .intro h1 {
 	font-family: 'Raleway', sans-serif;
 	color: #fff;
@@ -207,7 +213,7 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 }
 .intro h1 span {
 	font-weight: 800;
-	color: #5ca9fb;
+	color: #ffff00;
 }
 .intro p {
 	color: #fff;
@@ -218,8 +224,8 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 	margin-bottom: 60px;
 }
 header .intro-text {
-	padding-top: 350px;
-	padding-bottom: 200px;
+	padding-top: 250px;
+	padding-bottom: 150px;
 	text-align: center;
 }
 /* Features Section */
